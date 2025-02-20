@@ -1,0 +1,10 @@
+python-dotenv
+openai
+whisper
+yt-dlp
+noisereduce
+PySoundFile
+python-telegram-bot>=20.0
+numpy
+soundfile
+pydub
